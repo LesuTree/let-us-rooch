@@ -2,15 +2,13 @@
 
 ### 个人介绍
 
-* Github ID：[jolestar](https://github.com/jolestar)
+* Github ID：[lesutree](https://github.com/lesutree)
 
-* 微信号：wechatNumber
+* 邮箱：1809005134@qq.com
 
-* 邮箱：example@gmail.com
+* BTC 地址：待补充
 
-* BTC 地址：（用于发放训练营的学习奖励！）
-
-**删掉这行，开始在这里写一些个人介绍～**
+比特币小白
 
 ### 学习日志
 
